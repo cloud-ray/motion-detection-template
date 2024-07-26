@@ -1,4 +1,4 @@
-# Motion Detection and Cooldown Management System
+# Smart Object Detection: Boost Performance with Motion-Based Triggering
 
 ![Motion Detection Image](assets/motion-detection.jpg)
 
